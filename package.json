@@ -1,0 +1,23 @@
+{
+  "name": "nodes-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Bortoletto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bortolettot/nodes-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bortolettot/nodes-node/issues"
+  },
+  "homepage": "https://github.com/bortolettot/nodes-node#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^4.7.1"
+  }
+}
